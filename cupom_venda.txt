@@ -1,0 +1,8 @@
+          SGEV - SISTEMA DE VENDAS          
+--------------------------------------------
+ITEM     QTD      VALOR UN.      TOTAL 
+Monitor 24 Pol 1        850.0        850.0     
+--------------------------------------------
+VALOR TOTAL: R$ 850,00
+--------------------------------------------
+      OBRIGADO PELA PREFERENCIA!      
